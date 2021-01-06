@@ -21,3 +21,10 @@ p {
       color: lawngreen;
       font-size: 16px;
   }
+  .h3{
+    font-family: verdana;
+    font-size: 20px;
+    color: blueviolet;
+    text-decoration: underline;
+    text-decoration-color: red;
+  }
